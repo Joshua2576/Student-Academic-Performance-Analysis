@@ -23,6 +23,18 @@ To run this project, you'll need the following Python packages:
 - `matplotlib`
 - `seaborn`
 
+# Usage
+
+1. Clone the repository to your local machine.
+2. Place the `StudentPerformanceFactors.csv` dataset in the appropriate directory.
+3. Run the Jupyter Notebook or Python script to perform the analysis.
+
+# Key Findings
+
+- Attendance and hours studied are the most influential factors affecting exam scores.
+- Most students belong to the low socio-economic group, which correlates with slightly lower average exam scores.
+
+
 You can install these packages using pip:
 
 ```bash
